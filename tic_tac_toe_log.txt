@@ -1,0 +1,49 @@
+Player 1 (X) made a move
+   |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   
+
+Player 2 (O) made a move
+   |   |   
+---+---+---
+   | X |   
+---+---+---
+   | O |   
+
+Player 3 (Z) made a move
+ Z |   |   
+---+---+---
+   | X |   
+---+---+---
+   | O |   
+
+Player 1 (X) made a move
+ Z |   | X 
+---+---+---
+   | X |   
+---+---+---
+   | O |   
+
+Player 2 (O) made a move
+ Z |   | X 
+---+---+---
+   | X | O 
+---+---+---
+   | O |   
+
+Player 3 (Z) made a move
+ Z |   | X 
+---+---+---
+   | X | O 
+---+---+---
+   | O | Z 
+
+Player 1 (X) made a move
+ Z |   | X 
+---+---+---
+   | X | O 
+---+---+---
+ X | O | Z 
+
